@@ -1,0 +1,76 @@
+.maindiv{
+  margin: 2rem 2rem;
+
+}
+.titleh4{
+  display: inline-block;
+}
+.buttondiv{
+  display: inline;
+  position:absolute;
+ top:0;
+ right:0;
+ margin: 2rem 2rem;
+}
+.userbutton{
+
+  background-color: #060b26;
+  border-radius: 15px;
+  padding: 6px 10px ;
+  color: white;
+  align-items: center;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+  margin: 0.5rem;
+  width: 100px;
+}
+
+
+.userbutton {
+  transition-duration: 0.4s;
+}
+
+.userbutton:hover {
+  background-color: gainsboro; /* Green */
+  color: black;
+}
+
+.displayinline{
+
+  margin: 0.5rem 2rem ;
+  width: 40%;
+
+}
+.cardtitle{
+  font-size: 18px;
+  font-weight: bold;
+  display: inline-block;
+
+  width: 50%;
+
+}
+.cardvalue{
+  font-size: 15px;
+  display: inline-block;
+  width: 40%;
+  align-items: flex-end;
+}
+.Cardbox{
+  margin: 2rem 1.5rem;
+  border-radius: 2px;
+  padding: 2rem;
+  box-shadow:5px 5px 5px 5px #e4dddd ;
+
+
+
+}
+.flex{
+  display: flex;
+  flex: 50%;
+  flex-wrap: wrap;
+}
+
+.tablecss{
+  margin: 1rem;
+}

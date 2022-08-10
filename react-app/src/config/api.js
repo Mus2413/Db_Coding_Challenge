@@ -1,0 +1,1 @@
+export const hostNameUrl = "https://db-grads-v6wg-group-12.nw.r.appspot.com";
